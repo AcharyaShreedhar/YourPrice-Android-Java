@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YourPrice" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorSecondary">#03DAC6</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+
+    </style>
+
+    <style name="Widget.App.CardView" parent="Widget.MaterialComponents.CardView">
+
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.Card.Media" parent="">
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+    <style name="Theme.YourPrice" parent="Base.Theme.YourPrice">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorSecondary">#03DAC6</item>
+        <item name="android:windowSplashScreenBackground" tools:ignore="NewApi">@color/colorAccent</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:ignore="NewApi">@drawable/price</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:ignore="NewApi">1000</item>
+        <item name="android:windowSplashScreenBehavior" tools:ignore="NewApi">icon_preferred</item>
+
+
+    </style>
+    <style name="AppThemeWithActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+
+</resources>

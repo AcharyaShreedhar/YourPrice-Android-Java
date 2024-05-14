@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YourPrice</string>
+    <string name="your_price">Your Price</string>
+    <string name="iphone14desc">Longest battery life ever. A new Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.</string>
+    <string name="iphone13desc">Phone 13 mini. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A leap in battery life. Durable design. Superfast 5G. And a brighter Super Retina XDR display.</string>
+    <string name="iphone12desc">iPhone 12 is Apple\'s cheapest iPhone with Face ID and the all-display notch design</string>
+    <string name="slogan">Unleash the Power of Affordable Shopping, Your Price Matters!!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

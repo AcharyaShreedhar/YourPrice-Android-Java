@@ -1,0 +1,19 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#004D99</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorText">#333333</color>
+    <color name="colorAccent">#FFA500</color>
+    <color name="secondaryText">#757575</color>
+    <color name="cardBackground">#F5F5F5</color>
+    <color name="priceColor">#FF5722</color>
+    <color name="borderColor">#D1D1D1</color>
+    <color name="gradientStartColor">#FFCDD2</color>
+    <color name="gradientEndColor">#EF9A9A</color>
+    <color name="menu_icon_color">#FF4081</color>
+    <color name="menu_text_color">#0B0004</color>
+    <color name="pressed_color">#FFA500</color>
+    <color name="selected_color">#00FF00</color>
+    <color name="normal_color">#FFFFFF</color>
+</resources>

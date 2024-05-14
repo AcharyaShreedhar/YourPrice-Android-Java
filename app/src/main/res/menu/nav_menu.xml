@@ -1,0 +1,67 @@
+<!-- res/menu/nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:padding="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"
+            android:padding="5dp"
+            />
+
+            />
+        <item
+            android:id="@+id/products"
+            android:icon="@drawable/phones"
+            android:title="Products"
+            android:padding="5dp"
+            />
+
+            />
+        <item
+            android:id="@+id/stores"
+            android:icon="@drawable/ic_stores"
+            android:title="Stores"
+            android:padding="5dp"
+             />
+
+            />
+        <item
+            android:id="@+id/mycart"
+            android:icon="@drawable/ic_cart"
+            android:title="My Cart"
+            android:padding="5dp"
+            />
+
+            />
+        <item
+            android:id="@+id/mywishlist"
+            android:icon="@drawable/ic_wishlist"
+            android:title="My Wishlist"
+            android:padding="5dp"/>
+        <item
+            android:id="@+id/contactus"
+            android:icon="@drawable/ic_contact"
+            android:title="Contact Us"
+            android:padding="5dp"/>
+        <item
+            android:id="@+id/support"
+            android:icon="@drawable/ic_help"
+            android:title="Help and Support"
+            android:padding="5dp"/>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="Feedback and Reviews"
+            android:padding="5dp"/>
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings"
+            android:padding="5dp"/>
+    </group>
+
+</menu>
